@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abhishek Janardhan 👋
 
-<!--
-**abhishekjanardhan/abhishekjanardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+🌱 Currently learning Machine Learning, Deep Learning, and Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Python
+- Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- MATLAB
+
+📜 Certifications
+- NPTEL – Python for Data Science
+- Learnathon'25 – Learn AI and Gen AI Basics
+- Infosys Springboard AI/ML Courses
+- MathWorks AI/ML Programs
+
+📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/abhishekj237
